@@ -123,6 +123,260 @@ s
   181  histroy
   182  cd 
   183  history
+   189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+ 189  ls
+  190  cd docker-k8s/
+  191  ls
+  192  cd dockerfiles/
+  193  cat 3.cmdDockerfile 
+  194  docker build -t mycmd -f 3.cmdDockerfile  .
+  195  docker run mycmd
+  196  docker run mycmd ls
+  197  docker run mycmd ping google.com
+  198  cat 4.entrypoint 
+  199  docker build -t mysave -f 4.cmdDockerfile  .
+  200* 
+  201  docker build -t mysave -f 4.entrypoint  .
+  202  docker run mysave
+  203  docker run mysave ls
+  204  ls
+  205  cat 5.entrypointCmd 
+  206  docker build -t mysavecmd -f 5.entrypointCmd  .
+  207  docker run mysavvecmd 
+  208  docker run mysavecmd 
+  209  docker run mysavecmd khaleeda
+  210  cat 5.entrypointCmd 
+  211  history
+
 
 
 
