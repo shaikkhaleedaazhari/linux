@@ -378,6 +378,11 @@ s
   211  history
 
 
+  ----------
+  day 5
+  docker run -it -v/khaleeda:/khaleeda_con ubuntu bash 
+
+
 
 
    
