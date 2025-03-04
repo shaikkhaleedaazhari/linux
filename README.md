@@ -382,6 +382,10 @@ s
   day 5
   docker run -it -v/khaleeda:/khaleeda_con ubuntu bash 
 
+------
+TOKEN
+
+docker swarm join --token SWMTKN-1-0g329umwyieavcfyxx0tsimrzz3yt82ssplh1mhcd3fkn62r0v-7o6hpqkphwt3qsogf6sxqfgb0 192.168.219.137:2377
 
 
 
